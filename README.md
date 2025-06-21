@@ -1,4 +1,4 @@
-# Face Recognition(Login)
+# Face Recognition (Login)
 
 This project implements a real-time face recognition login system using OpenCV and ONNX models.
 
